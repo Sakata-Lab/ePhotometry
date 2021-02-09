@@ -7,4 +7,4 @@ The codes were written by Dr Niall McAlinden.
 See License.md
 
 # Reference
-Patel AA, McAlinden N, Mathieson K, and Sakata S. Simultaneous electrophysiology and fiber photometry in freely behaving mice. bioRxiv preprint (doi: https://doi.org/10.1101/807602).
+Patel AA, McAlinden N, Mathieson K, and Sakata S. Simultaneous electrophysiology and fiber photometry in freely behaving mice. Front. Neurosci., 21 February 2020 | https://doi.org/10.3389/fnins.2020.00148.
